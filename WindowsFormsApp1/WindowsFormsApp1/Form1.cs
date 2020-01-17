@@ -20,6 +20,7 @@ namespace WindowsFormsApp1
 		private void button1_Click(object sender, EventArgs e)
 		{
 			Console.WriteLine("hola mundo");
+			Console.WriteLine("hola mundo carlos");
 		}
 	}
 }
